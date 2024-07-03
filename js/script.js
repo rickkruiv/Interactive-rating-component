@@ -34,7 +34,8 @@ submit.addEventListener('click', () => {
         } else {
             feedBack.innerHTML = 'Agradecemos por dedicar seu tempo para avaliar. Nos ajude a melhorar enviando um feedback, estamos sempre abertos a novas sugestões!';
             
-            const template = `<div class="give-feedback">
+            const template = `
+            <div class="give-feedback">
                 <input type="text" placeholder="Nos conte sobre sua experiência">
                 <button id="send">
                     <img src="images/send-svgrepo-com.svg" alt="send-svgrepo-com">
