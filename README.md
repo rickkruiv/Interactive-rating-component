@@ -33,8 +33,6 @@ Users should be able to:
 
 This interactive evaluation project allowed me to develop my programming logic to solve the challenge. Even though it is simple, it greatly enhanced my learning. I used HTML, CSS, and JavaScript, and also developed a mini library in CSS for styling colors, fonts, and some standard styles.
 
-To see how you can add code snippets, see below:
-
 The mini library: 
 ```css
 @import url('https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100..900;1,100..900&display=swap');
